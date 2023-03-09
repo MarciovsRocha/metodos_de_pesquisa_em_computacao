@@ -88,3 +88,21 @@ Uma produção científica é considerada de boa qualidade quando:
   - Documento de área contendo 1024 conferências qualificadas
   - Única área que ainda aceita conferências em seu Qualis
   - SCImago
+
+## Bases de referências consideradas
+
+- ACM
+- IEEE
+- SpringerLink
+- InterScience
+- ScienceDirect
+- Scopus
+- SCIELO
+
+## Capes
+
+[Página da Capes])(http://periodicos.caps.gov.br)
+
+- Portal mantido pela CAPES para acesso a periódicos nacionais e internacionais
+- Disponibilizado para todas as Universidades Federais e para as Universidades particulares que tenham pelo menos um programa s*ctricto sensu* nível 5
+- Pode ser acessado pela PUCPR gratuitamente, permitindo baixar artigos de mais de 12.000 título
